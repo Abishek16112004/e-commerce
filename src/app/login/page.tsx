@@ -43,12 +43,12 @@ export default function Register() {
                     required
                   />
                   <p className="text-sm font-light text-white-500 dark:text-white mt-2">
-                    <a
+                    <Link
                       href="/forgot"
                       className="font-medium text-primary-600 hover:underline dark:text-primary-500"
                     >
                       Forgot Password
-                    </a>
+                    </Link>
                   </p>
                 </div>
 
